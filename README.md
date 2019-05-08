@@ -1,4 +1,8 @@
 # Dinner Spinner
+## JohnReddyZhang & w4rner
+
+Lead Dev: @JohnReddyZhang
+Lead Design: @w4rner
 
 An app that tells you where to eat your next dinner.
 
